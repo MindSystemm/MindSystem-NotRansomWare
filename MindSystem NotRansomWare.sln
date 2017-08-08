@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindSystemNotRansomWare", "MindSystemNotRansomWare\MindSystemNotRansomWare.csproj", "{6535814D-4647-4BFF-B2F0-015ED0FB2B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindSystem RanDecryptor", "MindSystem RanDecryptor\MindSystem RanDecryptor.csproj", "{5DB5616C-41EE-4DDE-A24F-505DE17F259F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6535814D-4647-4BFF-B2F0-015ED0FB2B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6535814D-4647-4BFF-B2F0-015ED0FB2B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6535814D-4647-4BFF-B2F0-015ED0FB2B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6535814D-4647-4BFF-B2F0-015ED0FB2B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB5616C-41EE-4DDE-A24F-505DE17F259F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB5616C-41EE-4DDE-A24F-505DE17F259F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB5616C-41EE-4DDE-A24F-505DE17F259F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB5616C-41EE-4DDE-A24F-505DE17F259F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
